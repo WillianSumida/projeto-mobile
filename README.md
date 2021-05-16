@@ -1,7 +1,6 @@
 # projeto-mobile
 
-Projeto desenvolvido utilizando o React-Native e o Expo para rodar a aplicação.
-
+Projeto desenvolvido utilizando o React-Native e o Expo 
 Abrir o emulador android.
 
 Para rodar o projeto, ir até a pasta onde está o projeto.<br>
